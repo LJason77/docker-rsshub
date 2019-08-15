@@ -34,3 +34,5 @@ docker run -d --restart always --name rsshub --network host rsshub
 # 方法二安装
 docker run -d --restart always --name rsshub --network host ljason/docker-rsshub
 ```
+
+更多配置和参数可查看 [RSSHub](https://github.com/DIYgod/RSSHub "万物皆可 RSS") 的官方文档：[部署 RSSHub](https://docs.rsshub.app/install/#配置)。
